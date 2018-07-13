@@ -5,7 +5,7 @@
 
 program pacmanProgram;
 uses
-	Math, zglHeader;
+    Math, zglHeader;
 
 const
     ZOOM = 3;   // zvětšení jednoho pixelu - škáluje na různá rozlišení
