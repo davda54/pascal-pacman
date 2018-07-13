@@ -4,4 +4,4 @@ Programming assignment in the first semester of my computer science studies: Pac
 
 The beautiful noodle-imperative source code can be in found in `pacman.lpr`
 
-![Alt text](/_img/screenshot.png)
+![pacman screenshot](/_img/screenshot.png)
